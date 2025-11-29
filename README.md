@@ -74,12 +74,11 @@ DAX for calculated measures and benchmark comparison
 
 Power Query for data transformation
 
-📁 Files in This Repository
 Hospital_Quality_Dashboard.pbix
 /images
    ![Dashboard Screenshot](images/executive_overview.png)
-   ![Dashboard Screenshot](geographic_analysis.png)
-   ![Dasboard Screenshot](clinical_deep_dive.png)
+   ![Dashboard Screenshot](images/geographic_analysis.png)
+   ![Dasboard Screenshot](images/clinical_deep_dive.png)
 
 Author
 Meena Maharjan
