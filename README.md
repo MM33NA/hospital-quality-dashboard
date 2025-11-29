@@ -17,17 +17,17 @@ What is the overall quality and readmission landscape?
 
 This page includes:
 
-Total number of hospitals analyzed
+- Total number of hospitals analyzed
 
-Average hospital rating
+- Average hospital rating
 
-Average readmission score
+- Average readmission score
 
-Percentage of hospitals with emergency services
+- Percentage of hospitals with emergency services
 
-Distribution of hospitals by type
+- Distribution of hospitals by type
 
-Map showing hospital density by state
+- Map showing hospital density by state
 
 This view gives a quick snapshot of nationwide hospital performance.
 
@@ -37,13 +37,13 @@ How does hospital quality vary by state?
 
 This page includes:
 
-State-level average ratings
+- State-level average ratings
 
-Number of hospitals per state
+- Number of hospitals per state
 
-Percentage of hospitals providing emergency care
+- Percentage of hospitals providing emergency care
 
-A scatter plot showing the relationship between hospital ratings and readmission scores
+- A scatter plot showing the relationship between hospital ratings and readmission scores
 
 This helps compare states and identify areas with stronger or weaker health system performance.
 
@@ -53,11 +53,11 @@ How do hospitals perform across key clinical conditions?
 
 This page includes:
 
-Condition-level readmission scores (COPD, Heart Failure, Heart Attack, Pneumonia, Other)
+- Condition-level readmission scores (COPD, Heart Failure, Heart Attack, Pneumonia, Other)
 
-Comparison by hospital type (Acute Care, Critical Access, Veterans)
+- Comparison by hospital type (Acute Care, Critical Access, Veterans)
 
-A national benchmark line to compare condition scores
+- A national benchmark line to compare condition scores
 
 This view highlights which conditions or hospital types perform above or below national standards.
 
